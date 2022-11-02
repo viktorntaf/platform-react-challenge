@@ -17,5 +17,5 @@ We give you a lot of freedom in technologies and ways of doing things. We only i
 
 ## Submission
 
-Just a make a PR to the current repo!
+Once you have built your app, share your code in the mean suits you best
 Good luck, potential colleague!

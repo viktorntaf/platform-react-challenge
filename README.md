@@ -12,7 +12,7 @@ The **third** view allows you do the following things:
 - Display your favourite cats
 - Remove an image from your favourites (use any UX option you like)
 
-You can find the API documentation here: https://docs.thecatapi.com/
+You can find the API documentation here: https://developers.thecatapi.com/
 We give you a lot of freedom in technologies and ways of doing things. We only insist on you using React.js. Get creative as much as you want, we WILL appreciate it. You will not be evaluated based on how well you follow these instructions, but based on how sensible your solution will be. In case you are not able to implement something you would normally implement for time reasons, make it clear with a comment.
 
 ## Submission
